@@ -58,6 +58,14 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
 
+### Решение 2
+
+[haproxy](https://github.com/sash3939/-/assets/156709540/6f14acf8-96ef-4db7-9670-12b20fc824bc)
+
+[переключение](https://github.com/sash3939/-/assets/156709540/f345ddcf-bb9f-407b-9828-0d5d9bd761fb)
+
+[переключение](https://github.com/sash3939/-/assets/156709540/cf4a3e8e-4a5b-4b2f-be04-beef8655657b)
+
 
 ---
 
