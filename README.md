@@ -46,6 +46,8 @@
 [haproxy2](https://github.com/sash3939/-/assets/156709540/49d0c595-6746-4859-ba5a-6e3319053ce6)
 
 [перенаправление](https://github.com/sash3939/-/assets/156709540/c691d34e-8050-4c5d-acaf-272ee34f253e)
+[перенаправление2](https://github.com/sash3939/-/assets/156709540/e3408c39-039a-4af5-ae2a-951ae0070166)
+
 
 
 
