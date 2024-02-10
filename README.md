@@ -64,8 +64,9 @@
 
 [переключение](https://github.com/sash3939/-/assets/156709540/f345ddcf-bb9f-407b-9828-0d5d9bd761fb)
 
-[переключение](https://github.com/sash3939/-/assets/156709540/cf4a3e8e-4a5b-4b2f-be04-beef8655657b)
+[переключение2](https://github.com/sash3939/-/assets/156709540/cf4a3e8e-4a5b-4b2f-be04-beef8655657b)
 
+[переключение3](https://github.com/sash3939/-/assets/156709540/46eebb01-8d0a-4d63-abbf-3ce5f3b149a1)
 
 ---
 
